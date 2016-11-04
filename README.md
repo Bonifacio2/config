@@ -1,3 +1,3 @@
 # config
 
-shamelessly stolen from @Stono
+shamelessly stolen from [@Stono](https://github.com/Stono/)
